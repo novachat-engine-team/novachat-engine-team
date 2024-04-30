@@ -14,9 +14,14 @@
 - [Telegram WebA](https://github.com/Ajaxy/telegram-tt)
 - 
 
+### Open Source List
+#### compile android/ios/web/pc 
+ - Novachat-engine [Server](https://github.com/novachat-engine-team/novachat-engine)
+ - Android [Android] ()  Coming Soon...
+ - IOS [IOS] () Coming Soon...
+ - Web [Web] () Coming Soon...
 
-###
- - Novachat-engine[server](https://github.com/novachat-engine-team/novachat-engine)
+
 
 ### API Schema [Schema](https://core.telegram.org/schema)
 
