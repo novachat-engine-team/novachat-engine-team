@@ -15,18 +15,16 @@
 - 
 
 ### Open Source List
-#### compile android/ios/web/pc 
+#### Building android/ios/web/pc 
  - Novachat-engine [Server](https://github.com/novachat-engine-team/novachat-engine)
- - Android [Android] ()  Coming Soon...
- - IOS [IOS] () Coming Soon...
- - Web [Web] () Coming Soon...
+ - Android [Android](https://github.com/novachat-engine-team/novachat-engine-android)
+ - IOS [IOS]() Coming Soon...
+ - Web [Web]() Coming Soon...
 
 
 
 ### API Schema [Schema](https://core.telegram.org/schema)
 
-
-PM [Author](https://t.me/bigM123)
 PM [Author](https://t.me/bigM1223)
 
 Groups [Telegram](https://t.me/novachat_telegram)
